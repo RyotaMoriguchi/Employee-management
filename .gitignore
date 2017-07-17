@@ -8,6 +8,7 @@
 .classpath
 .settings
 .metadata/
+/bin/
 
 ### Gradle ###
 .gradle
