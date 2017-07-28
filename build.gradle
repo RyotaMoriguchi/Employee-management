@@ -30,5 +30,6 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter')
     compile('org.springframework.boot:spring-boot-starter-web')
     compile('org.thymeleaf:thymeleaf-spring4')
+    compile('com.h2database:h2:1.4.196')
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
